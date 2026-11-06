@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/pradyunsg/sphinx-inline-tabs/commit/7ee04d209dd1ad4b0f7fa71ece040e9993abba6a",
       "git:hexsha": "7ee04d209dd1ad4b0f7fa71ece040e9993abba6a",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-06T02:13:18.682441+00:00"
     },
     {
       "@id": "https://repolex.ai/r/pradyunsg/sphinx-inline-tabs/commit/752918dd5cf5da0180235d5d7b551225315f166e",
