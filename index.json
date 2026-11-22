@@ -3,6 +3,11 @@
   "repo": "sphinx-inline-tabs",
   "versions": [
     {
+      "commit": "7f956455bcfaca721cb11eb670ae06638ca08478",
+      "tag": "2025.12.21.14",
+      "parsed_at": "2026-11-22T00:29:45.035412+00:00"
+    },
+    {
       "commit": "7ee04d209dd1ad4b0f7fa71ece040e9993abba6a",
       "tag": "",
       "parsed_at": "2026-11-06T02:13:18.682954+00:00"
