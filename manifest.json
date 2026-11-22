@@ -96,6 +96,73 @@
       ],
       "ast": [
         "aggregate/ast/7f956455bcfaca721cb11eb670ae06638ca08478/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/7f956455bcfaca721cb11eb670ae06638ca08478.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "sphinx",
+          "ecosystem": "PYPI",
+          "version": "3",
+          "githubOrg": "sphinx-doc",
+          "githubRepo": "sphinx",
+          "githubUrl": "https://github.com/sphinx-doc/sphinx",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "pytest",
+          "ecosystem": "PYPI",
+          "version": "9.2.0",
+          "githubOrg": "pytest-dev",
+          "githubRepo": "pytest",
+          "githubCommit": "ae1d0ff57b8bd4252da9ade7353523ac0ac73281",
+          "githubTag": "9.2.0",
+          "githubUrl": "https://github.com/pytest-dev/pytest",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "pytest-cov",
+          "ecosystem": "PYPI",
+          "version": "7.1.0",
+          "githubOrg": "pytest-dev",
+          "githubRepo": "pytest-cov",
+          "githubCommit": "66c8a526b1246b5eb8fb1bc218878131bc628622",
+          "githubTag": "v7.1.0",
+          "githubUrl": "https://github.com/pytest-dev/pytest-cov",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "pytest-xdist",
+          "ecosystem": "PYPI",
+          "version": "3.8.0",
+          "githubOrg": "pytest-dev",
+          "githubRepo": "pytest-xdist",
+          "githubCommit": "1e3e4dc16523c8a8f6c67d95a950166420718c99",
+          "githubTag": "v3.8.0",
+          "githubUrl": "https://github.com/pytest-dev/pytest-xdist",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "myst-parser",
+          "ecosystem": "PYPI",
+          "version": "5.2.0",
+          "githubOrg": "executablebooks",
+          "githubRepo": "MyST-Parser",
+          "githubCommit": "5137add4d72260c99e0c2e9f9a7c2ff8306ec930",
+          "githubTag": "v5.2.0",
+          "githubUrl": "https://github.com/executablebooks/MyST-Parser",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "furo",
+          "ecosystem": "PYPI",
+          "version": "2025.12.19",
+          "githubOrg": "pradyunsg",
+          "githubRepo": "furo",
+          "githubCommit": "dd9e9f920494f24b9b8dd954ec9d07e0b9d12817",
+          "githubTag": "2025.12.19",
+          "githubUrl": "https://github.com/pradyunsg/furo",
+          "source": "build_file:pyproject.toml"
+        }
       ]
     }
   ],
