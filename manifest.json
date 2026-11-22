@@ -163,7 +163,9 @@
           "githubUrl": "https://github.com/pradyunsg/furo",
           "source": "build_file:pyproject.toml"
         }
-      ]
+      ],
+      "repolex": "aggregate/repolex/7f956455bcfaca721cb11eb670ae06638ca08478/chunk-001.nq.gz",
+      "dep": "dep/7f956455bcfaca721cb11eb670ae06638ca08478.nq.gz"
     }
   ],
   "commit": "commit/commit.nq.gz",
